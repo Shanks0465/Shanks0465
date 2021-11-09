@@ -4,7 +4,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to work with projects relating to Applied Computer Vision.\
-🎓 &nbsp;Completed my B.Tech in Computer Sciece from Vellore Institute of Technology\
+🎓 &nbsp;Completed my B.Tech in Computer Sciece from Vellore Institute of Technology, Chennai Campus.\
 ✍️ &nbsp;I'm currently working on a research projects on Image Captioning and Image Segmentation.\
 📄 &nbsp;Developed a Prototype on AR/VR based Education for learning IoT and Machine Learning !
 
