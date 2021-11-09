@@ -1,6 +1,5 @@
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+<img src="assets/UMASHANKAR.png" alt="Shanks" width="700" height="250">
 
-![Test Image 1](assets/UMASHANKAR.png)
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to work with projects relating to Applied Computer Vision.\
