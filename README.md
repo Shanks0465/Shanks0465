@@ -1,4 +1,4 @@
-<img src="assets/UMASHANKAR.png" alt="Shanks" width="700" height="250">
+<img src="assets/Banner.png" alt="Shanks" width="700" height="250">
 
 ### 👨🏻‍💻 &nbsp;About Me
 
