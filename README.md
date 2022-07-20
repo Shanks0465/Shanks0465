@@ -30,5 +30,5 @@
 
 
 ### 🤝🏻 &nbsp;Connect with Me
-<a href="https://www.linkedin.com/in/umashankar-kumaravelan-74a228146/"><img src="https://img.shields.io/badge/-Shankar%20Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white"/><a>
+<a href="https://www.linkedin.com/in/umashankar-kumaravelan-74a228146/"><img src="https://img.shields.io/badge/-Umashankar%20Kumaravelan-0077B5?style=flat&logo=Linkedin&logoColor=white"/><a>
 <a href="umashanks99@gmail.com"><img src="https://img.shields.io/badge/-umashanks99@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
