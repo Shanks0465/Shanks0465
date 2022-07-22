@@ -2,8 +2,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to work with projects relating to ML,AI and Software Development.\
-🎓 &nbsp;Completed my B.Tech in Computer Sciece from Vellore Institute of Technology, Chennai Campus.\
+💡 &nbsp;I like to work with projects relating to ML,AI and Software Development.
+🎓 &nbsp;Completed my B.Tech in Computer Sciece from Vellore Institute of Technology, Chennai Campus.
 
 ### 🛠 &nbsp;Tech Stack
 
